@@ -1,0 +1,45 @@
+.head-container-code-civil {
+  /* border: 2px solid rgb(170, 34, 34); */
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 1000px;
+  margin-right: 100px;
+}
+
+.text-code-civil {
+  color: rgb(46, 46, 46);
+  margin: 40px 0 0 150px;
+  font-size: 18px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  margin-right: 380px;
+  margin-left: 40px;
+}
+
+.footer-container-code-civil {
+  /* border: 2px solid rgb(170, 34, 34); */
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 1000px;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+
+.pfeil-wrapper {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: flex-end;
+}
+
+a.pfeil-link-bottom {
+  /* border: 2px solid red; */
+  margin-right: 230px;
+}
+
+a.pfeil-link-bottom:hover {
+  opacity: 0.3;
+}
+
+a.pfeil-link:hover {
+  opacity: 0.3;
+}
