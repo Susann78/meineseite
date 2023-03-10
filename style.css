@@ -498,6 +498,10 @@ span {
     height: 100%;
   }
 
+  .card-link > div {
+    padding: 0;
+  }
+
   .main-about .about-specialities {
     margin: 5px 20px;
     padding-right: 0;
